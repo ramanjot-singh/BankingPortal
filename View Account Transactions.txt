@@ -1,0 +1,21 @@
+OnlineSBI provides features to enquire status of online transactions. 
+You can view and verify transaction details and the current status 
+of transactions. Your VISA transactions can also be viewed separately. 
+Just log on to retail section of the Internet Banking site with your 
+credentials and select the Status Enquiry link under the Enquiries tab. 
+You will be displayed all online transactions you have performed. To 
+view details of individual transactions, you need to click the Transa-
+ction Reference number link. You are displayed the debit and credit 
+account details, transaction amount, narration and transaction status.
+	
+
+Account Statement
+The Internet Banking application can generate an online, downloadable 
+account statement for any of your accounts for any date range and for 
+any account mapped to your username. The statement includes the trans-
+action details, opening, closing and accumulated balance in the account.
+You can generate the online account statement for any date range or for 
+any month and year. The account statement can be viewed online, printed 
+or downloaded as an Excel or PDF file. You also have the option to select 
+the number of records displayed in each page of the statement. The options 
+are 25, 50, 75, 100 and ALL.

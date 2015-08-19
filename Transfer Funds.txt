@@ -1,0 +1,24 @@
+The Funds Transfer facility enables you to transfer funds 
+within your accounts in the same branch or other branches. 
+To make a funds transfer, you should be an active Internet 
+Banking user with transaction rights. 
+	Daily limit for Funds Transfer to own Accounts:
+Between Accounts in the same branch: Rs.10 Lacs.
+Between Accounts across branches: Rs.5 Lacs.
+	Daily limit for Funds Transfer to PPF Accounts 
+in the same branch or across branches: Rs.1,00,000. This 
+is subject to a ceiling of Rs.1,00,000, by a maximum 12 
+deposits, during the Financial Year, for the Principal 
+Amount. 
+	Just log on to retail section of the Internet 
+Banking site with your credentials and select the Funds 
+Transfer link under Payments/Transfers tab. You can see all 
+your online debit and credit accounts. Select the debit account 
+from which you wish to transfer funds and the credit account 
+into which the amount is to be credited. Enter the amount and 
+remarks. The remarks will be displayed in your accounts statement 
+for this transaction. You will be displayed the last five funds 
+transfer operations on your accounts. On confirming the transaction, 
+you will be displayed a confirmation page with the details of the 
+transaction and the option to submit or cancel the funds transfer 
+request. A reference number will be generated for your record.

@@ -1,0 +1,16 @@
+OnlineSBI enables you to open a new account online. 
+You can apply for a new account only in branches where 
+you already have accounts. You should have an INB-enabled 
+account with transaction right in the branch. Funds in an 
+existing account are used to open the new account. You can 
+open Savings, Current, Term Deposit and Recurring Deposit 
+accounts of Residents, NRO and NRE types.
+
+Just log on to retail section of the Internet Banking site 
+with your credentials and select the New Account link under 
+Requests tab. You can see all types of accounts. Select the 
+account and account type you wish to open and submit the same. 
+Then, you need to select the branch and enter the initial amount 
+to open the account. You can select any of your accounts for 
+debiting the initial amount. Then, submit the transaction. 
+Your new account opening request will be processed by the branch.

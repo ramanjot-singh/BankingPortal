@@ -1,0 +1,9 @@
+in this section you can update your existing 
+profile as well you can manage all you accounts.
+more over if you want to change your passwords
+you can change both your login password as well
+as you profile password over here
+Note: 	1.its better to change your passwords after 
+	  every 30 days to keep the account more safe
+	2.Profile password should be different from
+	  login password
